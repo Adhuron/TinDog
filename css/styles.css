@@ -24,6 +24,7 @@ h1{
   font-weight: 900;
   font-size: 3rem;
   line-height: 1.5;
+
 }
 .navbar{
   padding-bottom:4.5rem;
@@ -37,8 +38,12 @@ h1{
   font-size: 2.5rem;
   font-weight: bold;
 }
+.row{
+  text-align: center;
+}
 .icon{
   margin: 20px 60px;
+  text-align: center;
 }
 h3{
   font-family: "Montserrat";
@@ -46,6 +51,39 @@ h3{
   font-size: 3rem;
   line-height: 1.5rem;
 }
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  font-weight: bold;
+
+}
 p{
   color: #8f8f8f;
+}
+#testimonials{
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+  padding: 7% 15%;
+}
+.testimonials-image{
+  border-radius: 100px;
+  margin:20px;
+  width: 15%;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+#pricing{
+  padding-top: 20px;
+  text-align: center;
+}
+.row{
+  padding: 3% 2%;
 }
